@@ -1,0 +1,10 @@
+README.md
+setup.py
+chucknorris_cli/__init__.py
+chucknorris_cli/main.py
+chucknorris_cli/quips.py
+chucknorris_cli.egg-info/PKG-INFO
+chucknorris_cli.egg-info/SOURCES.txt
+chucknorris_cli.egg-info/dependency_links.txt
+chucknorris_cli.egg-info/entry_points.txt
+chucknorris_cli.egg-info/top_level.txt

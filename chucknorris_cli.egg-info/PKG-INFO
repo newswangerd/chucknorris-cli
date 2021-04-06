@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: chucknorris-cli
+Version: 1.0.0
+Summary: The finest selection of Chuck Norris jokes.
+Home-page: https://github.com/newswangerd/chucknorris-cli
+License: UNKNOWN
+Description: # Chuck Norris CLI
+        
+        This is a demo showing how to build cli tools using python.
+        
+        ## Installation
+        
+        `pip install chucknorris-cli`
+        
+        ## Usage
+        ```shell
+        $ chucknorris Chuckster --number 29
+        Fear of spiders is arachnophobia, fear of tight spaces is claustrophobia, fear of Chuckster is called logic.
+        ```
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
